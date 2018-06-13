@@ -1,0 +1,49 @@
+img[alt="Comic Books"]{
+
+    z-index: -1;
+
+}
+
+img[alt="Cooking"]{
+
+    z-index: -1;
+}
+
+img[alt="Golf"]{
+
+    z-index: -1;
+}
+
+img[alt="Music"]{
+
+    z-index: -1;
+}
+
+img[alt="Aggie Sports"]{
+
+    z-index: -1;
+}
+
+img[alt="Dallas Sports"]{
+
+    z-index: -1;
+}
+
+img:hover{
+
+    background-color: #4aaaa5;
+}
+
+
+p{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 175px;
+    position: absolute;
+    left: 15px;
+    top: 170px;
+    
+}
+
